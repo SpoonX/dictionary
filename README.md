@@ -1,0 +1,2 @@
+# dictionary
+Translations made easy.
